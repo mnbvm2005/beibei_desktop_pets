@@ -1,0 +1,18 @@
+[
+  {
+    "file": "electron-v44.7.0-win32-x64.zip",
+    "sha256": "eee30dc8fa1f5ea95490e59f44e46ea68dd24c6e93d22facf70fe5c2d4c2665c",
+    "official_release": "https://github.com/electron/electron/releases/tag/v44.7.0",
+    "official_checksum_manifest": "https://github.com/electron/electron/releases/download/v44.7.0/SHASUMS256.txt",
+    "transport_mirror": "https://npmmirror.com/mirrors/electron/44.7.0/electron-v44.7.0-win32-x64.zip",
+    "verified": true
+  },
+  {
+    "file": "electron-v44.7.0-darwin-arm64.zip",
+    "sha256": "e04e411b58a0a14375dd21b0ab4a378fd38930a702e4e20e322fee4849404c0b",
+    "official_release": "https://github.com/electron/electron/releases/tag/v44.7.0",
+    "official_checksum_manifest": "https://github.com/electron/electron/releases/download/v44.7.0/SHASUMS256.txt",
+    "transport_mirror": "https://npmmirror.com/mirrors/electron/44.7.0/electron-v44.7.0-darwin-arm64.zip",
+    "verified": true
+  }
+]

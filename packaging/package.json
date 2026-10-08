@@ -1,0 +1,9 @@
+{
+  "name": "beibei-packaging-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "resedit": "3.1.0",
+    "pe-library": "2.0.1"
+  }
+}

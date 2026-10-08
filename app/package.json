@@ -1,0 +1,16 @@
+{
+  "name": "beibei-desktop-pet",
+  "productName": "杯杯",
+  "version": "1.0.2",
+  "description": "嘴欠的杯子桌宠：抓起认怂，便便公转，落地碎裂。",
+  "main": "main.js",
+  "author": "杯杯",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "44.7.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test ../tests/engine.test.js ../tests/input.test.js"
+  }
+}

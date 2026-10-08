@@ -1,0 +1,27 @@
+# Dependencies and generated distributions
+node_modules/
+.cache/
+dist/
+*.app/
+*.zip
+*.tgz
+
+# System, editor, and local configuration
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+
+# Diagnostics and test profiles
+*.log
+*.jsonl
+coverage/
+test-results/
+playwright-report/
+profiles/
+preferences.json
+__pycache__/
+*.py[cod]
